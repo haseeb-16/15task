@@ -997,9 +997,6 @@ async function initializeApp() {
 
 initializeApp();
 
-// ==============================
-// CLEANUP
-// ==============================
 
 window.addEventListener("pagehide", () => {
 
